@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darshan Sakdecha</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-sakdecha&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-sakdecha" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning advanced Node.js and Express.js concepts, focusing on REST API optimization, authentication, and working with MongoDB and MySQL in real-world backend applications.**
+- 🌱 I’m currently learning **Advanced Node.js and Express.js concepts, including REST API optimization, authentication, and working with MongoDB and MySQL in real-world backend applications.**
 
-- 💬 Ask me about **Backend Developer specializing in Node.js & Express.js, building secure and scalable REST APIs.**
+- 💬 Ask me about **MERN Stack development, building secure and scalable web applications, RESTful APIs, and integrating frontend (React/Next.js) with robust backend systems.**
 
 - 📫 How to reach me **darshansakdecha@gmail.com**
 
