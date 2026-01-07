@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan-sakdecha&label=Profile%20views&color=0e75b6&style=flat" alt="darshan-sakdecha" /> </p>
 
-- 🌱 I’m currently learning **Advanced Node.js and Express.js concepts, including REST API optimization, authentication, and working with MongoDB and MySQL in real-world backend applications.**
+- 🌱 I’m currently learning **Node.js and Express.js concepts, including REST API optimization, authentication, and working with MongoDB and MySQL in real-world backend applications.**
 
 - 💬 Ask me about **MERN Stack development, building secure and scalable web applications, RESTful APIs, and integrating frontend (React/Next.js) with robust backend systems.**
 
